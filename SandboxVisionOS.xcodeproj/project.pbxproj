@@ -18,7 +18,7 @@
 		49A0CA372B7B363900826F09 /* SandboxVisionOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SandboxVisionOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49A0CA3B2B7B363900826F09 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		49A0CA3E2B7B363900826F09 /* SandboxVisionOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SandboxVisionOSApp.swift; sourceTree = "<group>"; };
-		49A0CA402B7B363900826F09 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		49A0CA402B7B363900826F09 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = SandboxVisionOS/ContentView.swift; sourceTree = SOURCE_ROOT; };
 		49A0CA422B7B363A00826F09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49A0CA452B7B363A00826F09 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		49A0CA472B7B363A00826F09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
